@@ -1,8 +1,4 @@
-https://tetr-js.herokuapp.com/
-
-## Description
-
-A tetris clone built using React.js, with a Ruby on Rails backend for handling high scores and leaderboard. Built by K. Montgomery and D. Jordan for the Flatiron School curriculum. It mostly follows the earlier rules of tetris, without kickoffs of walls or holds. It is built for keyboard; touch screen is outside of the scope of the project.
+# Ruby on rails React Tetris
 
 ## Requirements
 
